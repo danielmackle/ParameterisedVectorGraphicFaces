@@ -1,4 +1,4 @@
-Daniel Mackle - CSC1028 QUB
+Daniel Mackle 40407187 - CSC1028 QUB
 
 The Commened Source Code .zip file holds all the source code and resources used.
 
