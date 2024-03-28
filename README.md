@@ -1,8 +1,9 @@
 Daniel Mackle - CSC1028 QUB
 
-The Parameterised Vector Graphic Images .zip file holds all the source code and resources used.
+The Commened Source Code .zip file holds all the source code and resources used.
+The Blog Post and Testing Plan are one zipped group of html files. Run index.html
+The Diary is the Daily Thoughts & Experience Diary .docx
+The How-To Guide is a zipped group of html files. Run index.html
+The Social Media Post is the Social Media Post .docx
 
-Parameterised Vector Graphic Images/datasources holds .csv files used (none so far)
-Parameterised Vector Graphic Images/images holds image files used to find screen locations
-Parameterised Vector Graphic Images/screenshots holds the last few screenshots taken
-Parameterised Vector Graphic Images/testsuites holds the test suites used (none so far)
+Thank you!
